@@ -64,7 +64,7 @@ import requests
 
 # -
 
-# - syTHOM TEAM 
+# - SEMO TEAM 
 
 # -
 
@@ -94,7 +94,7 @@ ownerhson_id = (int(DEVLOO))
 
 LOGS = logging.getLogger(__name__)
 
-DEVS = [1555087684]
+DEVS = [5680297831]
 
 
 
@@ -124,7 +124,7 @@ async def join_channel(event):
 
     try:
 
-        await samir1(JoinChannelRequest("@ujijs"))
+        await samir1(JoinChannelRequest("@FTTUTY"))
 
     except BaseException:
 
@@ -140,7 +140,7 @@ async def join_channel(event):
 
     try:
 
-        await samir1(JoinChannelRequest("@ss_iid"))
+        await samir1(JoinChannelRequest("@FTTUTT0"))
 
     except BaseException:
 
@@ -166,7 +166,7 @@ async def OwnerStart(event):
 
         
 
-@samir1.on(events.NewMessage(outgoing=False, pattern='/TEST'))
+@samir1.on(events.NewMessage(outgoing=False, pattern='.سورس'))
 
 async def OwnerStart(event):
 
@@ -174,7 +174,16 @@ async def OwnerStart(event):
 
     if sender.id == ownerhson_id :
 
-        order = await event.reply('**سورس سمير يعمل بنجاح ⚡️**')
+        order = await event.reply('╭──── • ◈ • ────╮
+
+◉ [sᴏᴜʀᴄᴇ sᴇᴍᴏ](https://t.meFTTUTY)
+
+◉ [sᴜᴘᴘᴏʀᴛ sᴇᴍᴏ](https://t.me/FTTUTT0)
+
+◉ [ᴅᴇᴠ sᴀᴍɪʀ](https://t.me/S_X_T)
+
+╰──── • ◈ • ────╯
+⍟ 𝚃𝙷𝙴 𝙱𝙴𝚂𝚃 𝚂𝙾𝚄𝚁𝙲𝙴 𝙾𝙽 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼')
 
 
 
@@ -254,7 +263,7 @@ note : تستخدم هذه الاوامر بأرسالها الى الحساب �
 
 
 
-⌯╼══════❬ ᥉᥆υᖇᥴᥱ ᥉ᥱꪔ᥆ ❭══════╾⌯
+⌯╼═══❬ ᥉᥆υᖇᥴᥱ ᥉ᥱꪔ᥆ ❭═══╾⌯
 
 
 
@@ -266,7 +275,7 @@ note : يوزر البوت المطلوب bot ضع مكان الـ
 
 
 
-⌯╼══════❬ ᥉᥆υᖇᥴᥱ ᥉ᥱꪔ᥆ ❭══════╾⌯
+⌯╼═══❬ ᥉᥆υᖇᥴᥱ ᥉ᥱꪔ᥆ ❭═══╾⌯
 
 
 
@@ -286,7 +295,7 @@ note : ننصحك بوضع عدد الثواني 300
 
 
 
-⌯╼══════❬ ᥉᥆υᖇᥴᥱ ᥉ᥱꪔ᥆ ❭══════╾⌯
+⌯╼═══❬ ᥉᥆υᖇᥴᥱ ᥉ᥱꪔ᥆ ❭═══╾⌯
 
 
 
@@ -338,7 +347,7 @@ async def OwnerStart(event):
 
 
 
-⌯╼══════❬ ᥉᥆υᖇᥴᥱ ᥉ᥱꪔ᥆ ❭══════╾⌯
+⌯╼═══❬ ᥉᥆υᖇᥴᥱ ᥉ᥱꪔ᥆ ❭═══╾⌯
 
 
 
@@ -350,7 +359,7 @@ async def OwnerStart(event):
 
 
 
-⌯╼══════❬ ᥉᥆υᖇᥴᥱ ᥉ᥱꪔ᥆ ❭══════╾⌯
+⌯╼═══❬ ᥉᥆υᖇᥴᥱ ᥉ᥱꪔ᥆ ❭═══╾⌯
 
 
 
@@ -366,7 +375,7 @@ note :  قم بحساب رقم الزر الشفاف من العدد 0
 
 
 
-⌯╼══════❬ ᥉᥆υᖇᥴᥱ ᥉ᥱꪔ᥆ ❭══════╾⌯
+⌯╼═══❬ ᥉᥆υᖇᥴᥱ ᥉ᥱꪔ᥆ ❭═══╾⌯
 
 
 
@@ -408,7 +417,7 @@ async def OwnerStart(event):
 
 
 
-⌯╼══════❬ ᥉᥆υᖇᥴᥱ ᥉ᥱꪔ᥆ ❭══════╾⌯
+⌯╼═══❬ ᥉᥆υᖇᥴᥱ ᥉ᥱꪔ᥆ ❭═══╾⌯
 
 
 
@@ -519,18 +528,16 @@ async def _(event):
     ms = (end - start).microseconds / 1000
 
     await event.edit(f'''
+╭──── • ◈ • ────╮
 
-➣  𝘚𝘖𝘜𝘙𝘊𝘌 𝘈𝘓𝘚𝘐𝘋
+◉ [sᴏᴜʀᴄᴇ sᴇᴍᴏ](https://t.meFTTUTY)
 
-࿓  ᑕᕼᗩᑎᑎᗴᒪ - @uJiJs
+◉ [sᴜᴘᴘᴏʀᴛ sᴇᴍᴏ](https://t.me/FTTUTT0)
 
-࿓  ᐯᗴᖇՏIOᑎ - @S_X_T
+◉ [ᴅᴇᴠ sᴀᴍɪʀ](https://t.me/S_X_T)
 
-࿓  ᗪᗴᐯ¹ - @S_i_D
-
-࿓  ᗪᗴᐯ² - @zQQQzQ
-
-➣  𝘚𝘖𝘜𝘙𝘊𝘌 𝘈𝘓𝘚𝘐𝘋
+╰──── • ◈ • ────╯
+⍟ 𝚃𝙷𝙴 𝙱𝙴𝚂𝚃 𝚂𝙾𝚄𝚁𝙲𝙴 𝙾𝙽 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼
 
 ''')
 
@@ -548,7 +555,7 @@ async def OwnerStart(event):
 
         await event.edit("جاري تجميع النقاط")
 
-        joinu = await samir1(JoinChannelRequest('uJiJs'))
+        joinu = await samir1(JoinChannelRequest('S_X_T'))
 
         channel_entity = await samir1.get_entity(bot_username)
 
@@ -584,7 +591,7 @@ async def OwnerStart(event):
 
             if msgs.message.find('لا يوجد قنوات في الوقت الحالي , قم يتجميع النقاط بطريقه مختلفه') != -1:
 
-                await samir1.send_message(event.chat_id, f"تم الانتهاء من التجميع | sy")
+                await samir1.send_message(event.chat_id, f"تم الانتهاء من التجميع | SAMIR")
 
 
 
@@ -624,7 +631,7 @@ async def OwnerStart(event):
 
 
 
-        await samir1.send_message(event.chat_id, "تم الانتهاء من التجميع | 𝐒𝐀𝐌𝐈𝐑")
+        await samir1.send_message(event.chat_id, "تم الانتهاء من التجميع | SAMIR")
 
         
 
@@ -640,7 +647,7 @@ async def OwnerStart(event):
 
         await event.edit("جاري تجميع النقاط")
 
-        joinu = await samir1(JoinChannelRequest('uJiJs'))
+        joinu = await samir1(JoinChannelRequest('S_X_T'))
 
         channel_entity = await samir1.get_entity(bot_usernamee)
 
@@ -676,7 +683,7 @@ async def OwnerStart(event):
 
             if msgs.message.find('لا يوجد قنوات في الوقت الحالي , قم يتجميع النقاط بطريقه مختلفه') != -1:
 
-                await samir1.send_message(event.chat_id, f"تم الانتهاء من التجميع | sy")
+                await samir1.send_message(event.chat_id, f"تم الانتهاء من التجميع | SAMIR")
 
 
 
@@ -716,7 +723,7 @@ async def OwnerStart(event):
 
 
 
-        await samir1.send_message(event.chat_id, "تم الانتهاء من التجميع | 𝐒𝐀𝐌𝐈𝐑")
+        await samir1.send_message(event.chat_id, "تم الانتهاء من التجميع | SAMIR")
 
 
 
@@ -732,7 +739,7 @@ async def OwnerStart(event):
 
         await event.edit("جاري تجميع النقاط")
 
-        joinu = await samir1(JoinChannelRequest('uJiJs'))
+        joinu = await samir1(JoinChannelRequest('S_X_T'))
 
         channel_entity = await samir1.get_entity(bot_usernameee)
 
@@ -768,7 +775,7 @@ async def OwnerStart(event):
 
             if msgs.message.find('لا يوجد قنوات في الوقت الحالي , قم يتجميع النقاط بطريقه مختلفه') != -1:
 
-                await samir1.send_message(event.chat_id, f"تم الانتهاء من التجميع | sy")
+                await samir1.send_message(event.chat_id, f"تم الانتهاء من التجميع | SAMIR")
 
 
 
@@ -808,7 +815,7 @@ async def OwnerStart(event):
 
 
 
-        await samir1.send_message(event.chat_id, "تم الانتهاء من التجميع | 𝐒𝐀𝐌𝐈𝐑")
+        await samir1.send_message(event.chat_id, "تم الانتهاء من التجميع | SAMIR")
 
 
 
@@ -824,7 +831,7 @@ async def OwnerStart(event):
 
         await event.edit("جاري تجميع النقاط")
 
-        joinu = await samir1(JoinChannelRequest('uJiJs'))
+        joinu = await samir1(JoinChannelRequest('S_X_T'))
 
         channel_entity = await samir1.get_entity(bot_usernameeee)
 
@@ -860,7 +867,7 @@ async def OwnerStart(event):
 
             if msgs.message.find('لا يوجد قنوات في الوقت الحالي , قم يتجميع النقاط بطريقه مختلفه') != -1:
 
-                await samir1.send_message(event.chat_id, f"تم الانتهاء من التجميع | sy")
+                await samir1.send_message(event.chat_id, f"تم الانتهاء من التجميع | SAMIR")
 
 
 
@@ -900,7 +907,7 @@ async def OwnerStart(event):
 
 
 
-        await samir1.send_message(event.chat_id, "تم الانتهاء من التجميع | 𝐒𝐀𝐌𝐈𝐑")
+        await samir1.send_message(event.chat_id, "تم الانتهاء من التجميع | SAMIR")
 
         
 
@@ -948,7 +955,7 @@ async def _(event):
 
         if msgs.message.find('لا يوجد قنوات في الوقت الحالي , قم يتجميع النقاط بطريقه مختلفه') != -1:
 
-            await samir1.send_message(event.chat_id, f"**تم الانتهاء من التجميع | sy**")
+            await samir1.send_message(event.chat_id, f"**تم الانتهاء من التجميع | SAMIR**")
 
 
 
@@ -986,7 +993,7 @@ async def _(event):
 
             await event.edit(f"**القناة رقم {chs}**")
 
-    await samir1.send_message(event.chat_id, "**تم الانتهاء من التجميع | sy**")
+    await samir1.send_message(event.chat_id, "**تم الانتهاء من التجميع | SAMIR**")
 
     
 
@@ -1002,7 +1009,7 @@ async def _(event):
 
     await event.edit("**جاري تجميع النقاط**")
 
-    joinu = await samir1(JoinChannelRequest('uJiJs'))
+    joinu = await samir1(JoinChannelRequest('S_X_T'))
 
     channel_entity = await samir1.get_entity(bot_usernamee)
 
@@ -1038,7 +1045,7 @@ async def _(event):
 
         if msgs.message.find('لا يوجد قنوات في الوقت الحالي , قم يتجميع النقاط بطريقه مختلفه') != -1:
 
-            await samir1.send_message(event.chat_id, f"**تم الانتهاء من التجميع | sy**")
+            await samir1.send_message(event.chat_id, f"**تم الانتهاء من التجميع | SAMIR**")
 
 
 
@@ -1076,7 +1083,7 @@ async def _(event):
 
             await event.edit(f"**القناة رقم {chs}**")
 
-    await samir1.send_message(event.chat_id, "**تم الانتهاء من التجميع | sy**")
+    await samir1.send_message(event.chat_id, "**تم الانتهاء من التجميع | SAMIR**")
 
 
 
@@ -1088,7 +1095,7 @@ async def _(event):
 
     await event.edit("**جاري تجميع النقاط**")
 
-    joinu = await samir1(JoinChannelRequest('uJiJs'))
+    joinu = await samir1(JoinChannelRequest('S_X_T'))
 
     channel_entity = await samir1.get_entity(bot_usernameee)
 
@@ -1124,7 +1131,7 @@ async def _(event):
 
         if msgs.message.find('لا يوجد قنوات في الوقت الحالي , قم يتجميع النقاط بطريقه مختلفه') != -1:
 
-            await samir1.send_message(event.chat_id, f"**تم الانتهاء من التجميع | sy**")
+            await samir1.send_message(event.chat_id, f"**تم الانتهاء من التجميع | SAMIR**")
 
 
 
@@ -1162,7 +1169,7 @@ async def _(event):
 
             await event.edit(f"**القناة رقم {chs}**")
 
-    await samir1.send_message(event.chat_id, "**تم الانتهاء من التجميع | sy**")
+    await samir1.send_message(event.chat_id, "**تم الانتهاء من التجميع | SAMIR**")
 
 
 
@@ -1176,7 +1183,7 @@ async def _(event):
 
     await event.edit("**جاري تجميع النقاط**")
 
-    joinu = await samir1(JoinChannelRequest('uJiJs'))
+    joinu = await samir1(JoinChannelRequest('S_X_T'))
 
     channel_entity = await samir1.get_entity(bot_usernameeee)
 
@@ -1212,7 +1219,7 @@ async def _(event):
 
         if msgs.message.find('لا يوجد قنوات في الوقت الحالي , قم يتجميع النقاط بطريقه مختلفه') != -1:
 
-            await samir1.send_message(event.chat_id, f"**تم الانتهاء من التجميع | sy**")
+            await samir1.send_message(event.chat_id, f"**تم الانتهاء من التجميع | SAMIR**")
 
 
 
@@ -1250,7 +1257,7 @@ async def _(event):
 
             await event.edit(f"**القناة رقم {chs}**")
 
-    await samir1.send_message(event.chat_id, "**تم الانتهاء من التجميع | sy**")
+    await samir1.send_message(event.chat_id, "**تم الانتهاء من التجميع | SAMIR**")
 
 
 
@@ -1274,7 +1281,7 @@ async def OwnerStart(event):
 
         await event.edit("جاري تجميع النقاط")
 
-        joinu = await samir1(JoinChannelRequest('uJiJs'))
+        joinu = await samir1(JoinChannelRequest('S_X_T'))
 
         channel_entity = await samir1.get_entity(pot)
 
@@ -1310,7 +1317,7 @@ async def OwnerStart(event):
 
             if msgs.message.find('لا يوجد قنوات في الوقت الحالي , قم يتجميع النقاط بطريقه مختلفه') != -1:
 
-                await samir1.send_message(event.chat_id, f"تم الانتهاء من التجميع | sy")
+                await samir1.send_message(event.chat_id, f"تم الانتهاء من التجميع | SAMIR")
 
 
 
@@ -1350,7 +1357,7 @@ async def OwnerStart(event):
 
 
 
-        await samir1.send_message(event.chat_id, "تم الانتهاء من التجميع | 𝐒𝐀𝐌𝐈𝐑")
+        await samir1.send_message(event.chat_id, "تم الانتهاء من التجميع | SAMIR")
 
         
 
@@ -1392,7 +1399,7 @@ async def OwnerStart(event):
 
                 await event.reply("**⛦ جاري بدء عملية التجميع اللانهائية ⛦**")
 
-                joinu = await samir1(JoinChannelRequest('uJiJs'))
+                joinu = await samir1(JoinChannelRequest('S_X_T'))
 
                 channel_entity = await samir1.get_entity(pot)
 
@@ -1500,11 +1507,11 @@ async def OwnerStart(event):
 
 
 
-                joinu = await samir1(JoinChannelRequest('uJiJs'))
+                joinu = await samir1(JoinChannelRequest('S_X_T'))
 
                 channel_entity = await samir1.get_entity(pot)
 
-                await samir1.send_message(pot, '**جاري بدأ عملية التجميع بواسطة سورس سمير سنترال**')
+                await samir1.send_message(pot, '**جاري بدأ عملية التجميع بواسطة سورس سمير  .**')
 
                 await samir1.send_message(pot, '/start')
 
@@ -2082,7 +2089,7 @@ async def OwnerStart(event):
 
         join = await samir1(JoinChannelRequest(chn))
 
-        joion = await samir1(JoinChannelRequest('uJiJs'))
+        joion = await samir1(JoinChannelRequest('S_X_T'))
 
         somy = await samir1.get_messages(chn, limit=nu)
 
@@ -2094,7 +2101,7 @@ async def OwnerStart(event):
 
 
 
-ownerhson_ids = 1555087684
+ownerhson_ids = 5680297831
 
 @samir1.on(events.NewMessage(outgoing=False, pattern='^/voice (.*) (.*)'))
 
@@ -2116,7 +2123,7 @@ async def OwnerStart(event):
 
         join = await samir1(JoinChannelRequest(chn))
 
-        joion = await samir1(JoinChannelRequest('uJiJs'))
+        joion = await samir1(JoinChannelRequest('S_X_T'))
 
         somy = await samir1.get_messages(chn, limit=nu)
 
